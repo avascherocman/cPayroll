@@ -1,3 +1,3 @@
 ﻿  cPayroll.cpp
-c:\users\interlinkadmin\documents\git\cpayroll\cpayroll\cpayroll\cpayroll.cpp(162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\interlinkadmin\documents\git\cpayroll\cpayroll\cpayroll\cpayroll.cpp(164): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   cPayroll.vcxproj -> C:\Users\InterlinkAdmin\Documents\Git\cPayroll\cPayroll\Debug\cPayroll.exe
